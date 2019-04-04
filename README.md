@@ -1,2 +1,2 @@
 # ev3rt_PIP_support
-Added PIP support to ev3rt kernel. Also created a test program to test the implementation.
+Implementing Priority inheritance protocol in toppers ev3rt kernel with a test application to test it
