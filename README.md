@@ -1,11 +1,3 @@
-Single Author info:
-
-bwmcdon2 Brayden W McDonald
-
-Group info:
-
-angodse Anupam N Godse
-
 #Modified Toppers Kernel with support for Priority Inheritance Protocol in Mutexes
 EV3 Mindstorm robot programmed with EV3RT
 
