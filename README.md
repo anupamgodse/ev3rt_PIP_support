@@ -72,7 +72,7 @@ time:    0   1   2   3   4   5   6   7   8   9   10  11  12
 	T4: |_Z4|___|___|___|___|___|___|___|___|___|___|___|_Z4|_N4|
 	
 	
-	Our test program prints its execution history in a gantt chart, the same way as the test program from homework 3. In this case, tasks lock, unlock, and are released at multiples of 100 miliseconds, while the executing task is only recorded multiples of 50 that are *not* also multiples of 100, ensuring that the gantt chart is the same every time. 
+	Our test program(sdk/workspace/pip) prints its execution history in a gantt chart, the same way as the test program from homework 3. In this case, tasks lock, unlock, and are released at multiples of 100 miliseconds, while the executing task is only recorded multiples of 50 that are *not* also multiples of 100, ensuring that the gantt chart is the same every time. 
 	
 	Under the first set, we see history EDCBEABCDCBBCDE
 	Under the second, we see EDCBBCCBBCDDEE
